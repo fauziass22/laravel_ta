@@ -1,0 +1,138 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.medclinic {
+    position: absolute;
+    width: 126px;
+    height: 32px;
+    left: 210px;
+    top: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+}
+
+    .tombol-submit {
+    background-color: #96BB7C;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 109px; 
+    }
+
+.tombol-submit a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 0.5;
+
+}
+
+.image {
+position: absolute;
+right: 0; /* Mengatur jarak dari tepi kanan */
+top:0;
+}
+
+.image2 {
+    position: absolute;
+    width: -10px;
+    height: 20px;
+    left: 0px;
+    top: -15px;
+    background: url(img/image.png);
+}
+
+.home {
+    padding-left: 370px;
+    padding-top: 12px;
+ 
+}
+
+.home a {
+text-decoration: none;
+color: #000;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+margin-right: 20px; 
+}
+
+
+.home a:hover {
+    color: #737373
+;
+}
+
+.home a:active {
+    color: #737373
+
+}
+
+
+
+.content{
+    padding-top: 500px;
+}
+
+.welcome{
+    position: absolute;
+width: 81px;
+height: 24px;
+left: 113px;
+top: 226px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.1px;
+
+
+color: #96BB7C;
+}
+
+.meet {
+position: absolute;
+width: 542px;
+height: 160px;
+left: 113px;
+top: 190px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold; /* Atur font menjadi lebih tebal */
+font-size: 58px;
+line-height: 80px;
+letter-spacing: 0.2px;
+color: #252B42;
+}
+
+.silahkan{
+position: absolute;
+width: 466px;
+height: 60px;
+left: 117px;
+top: 410px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+}
